@@ -97,7 +97,6 @@ C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUnivers
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\obj\Release\MyWeb_ContosoUniversity.csprojAssemblyReference.cache
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\obj\Release\MyWeb_ContosoUniversity.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\obj\Release\MyWeb_ContosoUniversity.csproj.CopyComplete
 C:\Users\Administrator\source\repos\MyWeb_ContosoUniversity\MyWeb_ContosoUniversity\obj\Release\MyWeb_ContosoUniversity.dll
